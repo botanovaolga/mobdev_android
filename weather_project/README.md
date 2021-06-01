@@ -1,6 +1,5 @@
 # Weather App
-An Android App where you can check weather from city you want  and see forecast for next tree days
- 
+Приложение для Android, которое показывает прогноз погоды на текущий и последующие три дня.
 
 # Features
 
